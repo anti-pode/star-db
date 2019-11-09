@@ -1,0 +1,11 @@
+.list-group .list-group-item {
+  cursor: pointer;
+}
+
+.list-group .list-group-item {
+  padding: 4px 10px;
+}
+
+.list-group .list-group-item:hover {
+  background-color: #444;
+}
